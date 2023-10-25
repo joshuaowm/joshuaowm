@@ -2,9 +2,9 @@
 
 I'm Owen, a marine biologist from Bekasi, Indonesia, who's trying to learn programming through the internet.
 
-My interest in GIS has brought me to learn computer science and languages such as Python and SQL (I think it's cool to know programming languages).
+My interest in GIS has brought me to learn computer science and languages such as Python and SQL and also I think it's cool to know programming languages.
 
-I'm currently learning computer science from [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science).
+I am currently seeking opportunities to build my professional career while deepening my skills in programming, data analysis, and spatial science.
 
 Can't wait to use this platform for more projects and learning new stuff.
 
@@ -12,7 +12,7 @@ Can't wait to use this platform for more projects and learning new stuff.
 
 - [LinkedIn](https://www.linkedin.com/in/joshua-owen-mangotang/)
 - [Instagram](https://www.instagram.com/joshuaowm/)
-- Email me at joshuaowen1500@gmail.com
+- Email me at joshuaowm@gmail.com
 
 Give me a shout if you wanna collaborate or just chat about anything!
 
