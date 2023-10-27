@@ -1,22 +1,21 @@
 # Hello Everyone! 👋
 
-I'm Owen, a marine biologist from Bekasi, Indonesia, who's trying to learn programming through the internet.
+I'm Owen, a Bachelor of Science majoring in Marine Science from Bekasi, Indonesia, embarking on a thrilling journey to dive into the world of programming through the vast ocean of the internet.
 
-My interest in GIS has brought me to learn computer science and languages such as Python and SQL and also I think it's cool to know programming languages.
+My deep-seated passion for Geographic Information Systems (GIS) has navigated me towards the shores of computer science, introducing me to the enchanting realms such as Python, SQL, and Web Development. Learning these languages has been like exploring hidden treasures on a digital map – thrilling and enlightening!
 
-I am currently seeking opportunities to build my professional career while deepening my skills in programming, data analysis, and spatial science.
+I find it utterly cool to be fluent in programming languages. Just like the intricate dance of marine life in the deep blue, programming languages perform their unique choreography in the digital ecosystem.
 
-Can't wait to use this platform for more projects and learning new stuff.
+As I ride the waves of knowledge and experience, I'm actively on the lookout for opportunities to craft a professional career in spatial/data science and data analysis.
 
-## Connect with Me!
+I'm eager to harness the power of this platform for more exciting projects and learning experiences. With each new line of code, I'm shaping my future, one algorithm at a time.
 
-- [LinkedIn](https://www.linkedin.com/in/joshua-owen-mangotang/)
-- [Instagram](https://www.instagram.com/joshuaowm/)
-- Email me at joshuaowm@gmail.com
+## Let's Stay Connected!
 
-Give me a shout if you wanna collaborate or just chat about anything!
+- [LinkedIn](https://www.linkedin.com/in/joshuaowm/) - Let's link up professionally!
+- [Instagram](https://www.instagram.com/joshuaowm/) - Catch a glimpse of my adventurous side.
+- Email me at joshuaowm@gmail.com - Feel free to drop me a line, whether it's about collaboration, marine trivia, or your favorite coding adventures.
 
-<!---
-joshuaowm/joshuaowm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Don't hesitate to give me a shout if you want to team up for a project or just have a casual chat about anything under the digital sun!
+
+Feel free to dive in, explore, and let's make some waves together! 🌊🌐🚀
