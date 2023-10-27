@@ -14,7 +14,9 @@ I'm eager to harness the power of this platform for more exciting projects and l
 
 - [LinkedIn](https://www.linkedin.com/in/joshuaowm/) - Let's link up professionally!
 - [Instagram](https://www.instagram.com/joshuaowm/) - Catch a glimpse of my adventurous side.
-- Email me at joshuaowm@gmail.com - Feel free to drop me a line, whether it's about collaboration, marine trivia, or your favorite coding adventures.
+- Email me at joshuaowm@gmail.com 
+
+**Check out my repositories to explore all of my projects!**
 
 Don't hesitate to give me a shout if you want to team up for a project or just have a casual chat about anything under the digital sun!
 
