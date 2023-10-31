@@ -12,8 +12,8 @@ I'm eager to harness the power of this platform for more exciting projects and l
 
 ## Let's Stay Connected!
 
-- [LinkedIn](https://www.linkedin.com/in/joshuaowm/) - Let's link up professionally!
-- [Instagram](https://www.instagram.com/joshuaowm/) - Catch a glimpse of my adventurous side.
+- [LinkedIn](https://www.linkedin.com/in/joshuaowm/)
+- [Instagram](https://www.instagram.com/joshuaowm/)
 - Email me at joshuaowm@gmail.com 
 
 **Check out my repositories to explore all of my projects!**
