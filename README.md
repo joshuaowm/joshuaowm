@@ -1,6 +1,6 @@
 # Hello Everyone! 👋
 
-I'm a fresh Marine Science graduate with a GIS focus. I've experienced in student projects, internships, and taught myself some cool Computer Science stuff—like Python, SQL, and Web Dev also big fan of tackling climate change and environmental conservation.
+I'm a fresh Marine Science graduate with a GIS focus. I've experienced in student projects, internships, and taught myself some cool Computer Science stuff—like Python, SQL, and Web Dev, also big fan of tackling climate change and environmental conservation.
 
 Currently on the lookout for opportunities while keeping my learning journey alive in Computer and Spatial Science.
 
