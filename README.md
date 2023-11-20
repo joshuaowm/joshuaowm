@@ -1,17 +1,12 @@
 # Hello Everyone! 👋
 
-I'm Owen, a Bachelor of Science majoring in Marine Science from Bekasi, Indonesia, embarking on a thrilling journey to dive into the world of programming through the vast ocean of the internet.
+I'm a fresh Marine Science graduate with a GIS focus. I've experienced in student projects, internships, and taught myself some cool Computer Science stuff—like Python, SQL, and Web Dev also big fan of tackling climate change and environmental conservation.
 
-My deep-seated passion for Geographic Information Systems (GIS) has navigated me towards the shores of computer science, introducing me to the enchanting realms such as Python, SQL, and Web Development. Learning these languages has been like exploring hidden treasures on a digital map – thrilling and enlightening!
-
-I find it utterly cool to be fluent in programming languages. Just like the intricate dance of marine life in the deep blue, programming languages perform their unique choreography in the digital ecosystem.
-
-As I ride the waves of knowledge and experience, I'm actively on the lookout for opportunities to craft a professional career in spatial/data science and data analysis.
-
-I'm eager to harness the power of this platform for more exciting projects and learning experiences. With each new line of code, I'm shaping my future, one algorithm at a time.
+Currently on the lookout for opportunities while keeping my learning journey alive in Computer and Spatial Science.
 
 ## Let's Stay Connected!
 
+- [My Personal Website](https://joshuaowm.github.io/Personal-Web/index.html)
 - [LinkedIn](https://www.linkedin.com/in/joshuaowm/)
 - [Instagram](https://www.instagram.com/joshuaowm/)
 - Email me at joshuaowm@gmail.com 
