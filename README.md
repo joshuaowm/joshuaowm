@@ -9,7 +9,7 @@ Currently on the lookout for opportunities while keeping my learning journey ali
 - [My Personal Website](https://joshuaowm.github.io/Personal-Web/index.html)
 - [LinkedIn](https://www.linkedin.com/in/joshuaowm/)
 - [Instagram](https://www.instagram.com/joshuaowm/)
-- Email me at joshuaowm@gmail.com 
+- Email me at joshuaowen1500@gmail.com 
 
 **Check out my repositories to explore all of my projects!**
 
